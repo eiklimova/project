@@ -1,0 +1,15 @@
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\bin\Debug\WPFKate.exe.config
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\bin\Debug\WPFKate.exe
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\bin\Debug\WPFKate.pdb
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.csprojAssemblyReference.cache
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\MainWindow.g.cs
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\App.g.cs
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate_MarkupCompile.cache
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate_MarkupCompile.lref
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\MainWindow.baml
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.g.resources
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.Properties.Resources.resources
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.csproj.GenerateResource.cache
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.csproj.CoreCompileInputs.cache
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.exe
+D:\ЯП\ДЗ_2_Семестр\WPFKate\WPFKate\obj\Debug\WPFKate.pdb
